@@ -18,9 +18,9 @@ theme = "hugo-theme-m10c"
     url = "/tags/"
     weight = 2
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+  #  identifier = ##"#about"
+  #  name = #"#About"
+ #   url = "/about/"
     weight = 3
 
 [params]
