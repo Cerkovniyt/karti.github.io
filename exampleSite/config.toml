@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://cerkovniyt.github.io/karti.github.io/"
 title = "Your title"
 themesDir = "../.."
 theme = "hugo-theme-m10c"
